@@ -1,0 +1,9 @@
+git remote add <REMOTENAME> <URL>
+git remote set-url <REMOTENAME> <URL>
+git pull <REMOTENAME> <BRANCHNAME>
+git remove -v
+git push <REMOTENAME> <BRANCH>
+
+
+
+
