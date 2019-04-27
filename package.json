@@ -26,6 +26,7 @@
     "@babel/preset-react": "^7.0.0",
     "ajax-request": "^1.2.3",
     "axios": "^0.18.0",
+    "path": "^0.12.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
